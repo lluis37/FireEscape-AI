@@ -1,4 +1,4 @@
-# Out-of-the-Frying-Pan-and-Into-the-Fryer
+# FireEscape-AI
 AI Project in which I programmed and designed various bots to extinguish a spreading fire on a simulated spacecraft
 
 The bots implemented work as folllows:
